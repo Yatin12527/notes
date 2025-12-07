@@ -1,6 +1,4 @@
-Here is the comprehensive Markdown file, rewritten in a narrative lecture style with zero information loss. I have included the placeholder for the image exactly where the text references it so you can easily link your file later.
 
------
 
 # Antenna Parameters: Effective Length, Beam Efficiency, and Gain
 
