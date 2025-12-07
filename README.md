@@ -27,8 +27,8 @@ _Also called: The Hertz Antenna._
     
 
 **Reference to Fig: Half-wave Dipole Antenna**
+<img width="441" height="366" alt="image" src="https://github.com/user-attachments/assets/235188e5-da6d-4847-97a3-3371923c4935" />
 
-> **How to Draw:** Draw a horizontal line split in the center. Mark the total length as $\lambda$ (one full wave) typically, but label the dipole sections clearly. Draw arrows showing "Antenna Sections" and the "Feeder" line dropping from the center gap.
 
 ----------
 
@@ -57,7 +57,7 @@ _Also called: The Hertz Antenna._
 
 **Reference to Fig: Folded Dipole Antenna**
 
-> **How to Draw:** Draw a "track" shape (like a flattened oval). The top wire is solid. The bottom wire has a gap for the "Feeder." Use arrows to show the length is equivalent to a standard dipole but "folded."
+<img width="467" height="447" alt="image" src="https://github.com/user-attachments/assets/6d2168f9-1981-477d-87fe-66fbd0d026da" />
 
 ----------
 
@@ -76,7 +76,7 @@ _Also called: The Hertz Antenna._
 
 **Reference to Fig: Short Dipole Antenna**
 
-> **How to Draw:** Draw two thick lines separated by a gap. Crucially, draw the voltage source symbol at the bottom of the feeder. Add the mathematical condition: **$L < \lambda/10$**.
+<img width="525" height="326" alt="image" src="https://github.com/user-attachments/assets/7c07380d-94b5-4535-a21c-5e2e5432ab8f" />
 
 ----------
 
@@ -96,8 +96,8 @@ _Also called: The Hertz Antenna._
     
 
 **Reference to Fig: FM Dipole Antenna**
+<img width="536" height="406" alt="image" src="https://github.com/user-attachments/assets/94ad8200-d1b7-44cb-9c18-c20948c61a93" />
 
-> **How to Draw:** This diagram usually looks like two wires hanging down or spread out. Label the specific lengths: **"Quarter wavelength"** on the left arm and **"Quarter wavelength"** on the right arm (totaling a half-wave).
 
 ----------
 
@@ -125,10 +125,8 @@ _Also called: Fanned Dipole or Parallel Dipole._
         
 
 **Reference to Fig: Fan Dipole Antenna**
+<img width="795" height="292" alt="image" src="https://github.com/user-attachments/assets/59aeacfd-a5ae-4138-996e-a4028e763ddd" />
 
-> **How to Draw:** Draw a central vertical line (coaxial cable). At the top, draw three pairs of wires spreading out like whiskers of different lengths.
-> 
-> -   Label the shortest pair **"1/4 wavelength"** (for high freq).
 >     
 > -   Label the longest pair **"1/4 wavelength"** (for low freq).
 >     
