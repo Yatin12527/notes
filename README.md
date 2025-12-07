@@ -126,9 +126,3 @@ _Also called: Fanned Dipole or Parallel Dipole._
 
 **Reference to Fig: Fan Dipole Antenna**
 <img width="795" height="292" alt="image" src="https://github.com/user-attachments/assets/59aeacfd-a5ae-4138-996e-a4028e763ddd" />
-
->     
-> -   Label the longest pair **"1/4 wavelength"** (for low freq).
->     
-> -   Label the overall shape as **"Inverted V shape."**
->
